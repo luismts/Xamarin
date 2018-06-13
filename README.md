@@ -23,7 +23,7 @@ Some of them are:
 
 ## Courses:
 * [Xamarin University](https://university.xamarin.com): Is a live, interactive, mobile development training led by Xamarin experts. 
-* [Xamarin Certificates](https://university.xamarin.com): A FB's group that publish different courses (Spanish).
+* [Xamarin Latino](https://university.xamarin.com): A FB's group that publish different courses (Spanish).
 * [Xamarin Diplomado](https://luisbeltran.mx/2018/05/29/curso-xamarin-diplomado-2018/) (Spanish)
 
 ## Blogs:
