@@ -13,16 +13,16 @@ Wanna learn Xamarin? Cool!
 * [Xamarin Diplomado](https://luisbeltran.mx/2018/05/29/curso-xamarin-diplomado-2018/) (Spanish)
 
 ## Blogs:
-* https://xamgirl.com/
-* https://devlinduldulao.pro/
-* https://thatcsharpguy.com/tag/Xamarin/
-* https://blog.kloud.com.au/?s=xamarin&submit=Search
-* https://lalorosas.com/blog/
-* https://luisdavidxamshap.wordpress.com/
-* https://danielhindrikes.se/
+* [XamGirl](https://xamgirl.com/)
+* [Devlin Duldulao](https://devlinduldulao.pro/)
+* [That's CSharp Guy / Xamarin](https://thatcsharpguy.com/tag/Xamarin/)
+* [KLoud](https://blog.kloud.com.au/?s=xamarin&submit=Search)
+* [Lalo Rosas](https://lalorosas.com/blog/)
+* [Luis David de la Cruz](https://luisdavidxamshap.wordpress.com/)
+* [Daniel Hindrikes](https://danielhindrikes.se/)
 
 ## Herramientas:
-* Herramienta para crear iconos: https://romannurik.github.io/AndroidAssetStudio/
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 
 ## Others:
 * [Xamarin Wallpapers]()
