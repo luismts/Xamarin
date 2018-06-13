@@ -7,7 +7,7 @@ Wanna learn Xamarin? Cool!
 ## Books:
 * [Community Books on Xamarin Development](https://blog.xamarin.com/community-books-xamarin-development/)
 
-## Data Bases with xamarin:
+## Data Bases:
 * [MongoDB](https://blog.xamarin.com/write-apps-using-mongodb-xamarin/)
 
 ## Courses:
