@@ -22,7 +22,7 @@ Some of them are:
 * [MongoDB](https://blog.xamarin.com/write-apps-using-mongodb-xamarin/)
 
 ## Courses:
-* [Xamarin University](https://university.xamarin.com)
+* [Xamarin University](https://university.xamarin.com): Is a live, interactive, mobile development training led by Xamarin experts. 
 * [Xamarin Certificates](https://university.xamarin.com): A FB's group that publish different courses (Spanish).
 * [Xamarin Diplomado](https://luisbeltran.mx/2018/05/29/curso-xamarin-diplomado-2018/) (Spanish)
 
